@@ -1,5 +1,5 @@
+!pip install streamlit streamlit-webrtc #installation of streamlit
 import streamlit as st
-! pip install streamlit streamlit-webrtc #installation of streamlit
 from streamlit_webrtc import (
     AudioProcessorBase,
     RTCConfiguration,
