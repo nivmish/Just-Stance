@@ -9,7 +9,7 @@ from streamlit_webrtc import (
 from sklearn.utils import shuffle
 import tensorflow.keras as keras
 import numpy as np
-import cv2
+#import cv2
 import tensorflow as tf
 from tensorflow.keras.utils import CustomObjectScope
 import av
